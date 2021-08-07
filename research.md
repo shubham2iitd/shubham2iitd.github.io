@@ -3,9 +3,7 @@ layout: page
 title: Research
 ---
 
-## Research Projects
-
-#### Does Broader Sharing Improve Patient Outcomes? A Structural Model Analysis of Share 35 Liver Allocation Policy (Job market paper)
+#### 1. Does Broader Sharing Improve Patient Outcomes? A Structural Model Analysis of Share 35 Liver Allocation Policy (Job market paper)
 
 - Co-authors: Liye Ma, S. Raghavan
 - Status: Preparing to submit at Management Science
@@ -14,7 +12,7 @@ title: Research
   - Accepted at the TADC 2021 conference
   - Conference presentations at INFORMS 2020, POMS 2021, MSOM Healthcare SIG 2021, INFORMS Healthcare conference 2021
 
-#### Heterogeneous Donor Circles for Fair Liver Transplant Allocation
+#### 2. Heterogeneous Donor Circles for Fair Liver Transplant Allocation
 
 <p><a target="_blank" href="{{ '/public/Heterogeneous_Donor_Circles_for_Fair_Liver_Transplant_Allocation.pdf' | relative_url }}"> Latest Version </a> </p>
 - Co-authors: Sommer E. Gentry, S. Raghavan
@@ -26,7 +24,7 @@ title: Research
   - Selected for presentation at the 4th MD4SG workshop in August 2020 (Acceptance rate: 29%)
   - Conference presentations at POMS 2019 (Washington, D.C.), INFORMS 2019 (Phoenix)
 
-#### Continuous Scoring Model for Fair Liver Transplant Allocation
+#### 3. Continuous Scoring Model for Fair Liver Transplant Allocation
 
 - Co-authors: S. Raghavan
 - Status: Preparing for submission at Operations Research

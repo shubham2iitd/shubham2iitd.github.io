@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<img src="{{ site.baseurl }}public/profile.jpeg">
+<img class="center" src="{{ site.baseurl }}public/profile.jpeg" height="350px"/>
 
 ## Shubham Akshat
 
@@ -11,19 +11,17 @@ I am a PhD Candidate in Operations Management at the Robert H. Smith School of B
 
 I will be on the 2021-22 academic job market.
 
-<p>Email: <a target="_blank" href="mailto:sakshat@umd.edu">sakshat@umd.edu</a></p>
-<p>LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/shubham-akshat-86997918/">Link</a></p>
-<p>CV: <a target="_blank" href="{{ site.baseurl }}public/CV.pdf">Download</a></p>
-
 ## Awards & Honours
 
-2021 - Prizes | Received International Conference Student Support Award from University of Maryland
-2020 - Prizes | Received INFORMS Public Sector Operations Research Best Paper Award (Finalist) from INFORMS
-2020 - Prizes | Received Best Paper Award Competition (Honorable Mention) from College of Healthcare Operations Management (CHOM), POMS
+International Conference Student Support Award | University of Maryland | 2020
+Best Paper Award (Finalist) | INFORMS Public Sector Operations Research Section | 2020
+Best Paper Award Competition (Honorable Mention) | College of Healthcare Operations Management (CHOM), POMS | 2020
+Jacob K. Goldhaber Travel Grant| University of Maryland | 2020
+Smith School Summer Fellowship | Robert H. Smith School of Business | (2018, 2019, 2020)
 
 ## Affiliations
 
-Ph.D. Candidate in Operations Management | Robert H. Smith School of Business | 2017 - Present
-Course Instructor | University of Maryland | 2020
-Analyst | Indian School of Business | 2015 - 2017
-Bachelor of Technology, Production & Industrial Engineering | Indian Institute of Technology, Delhi | 2009 - 2013
+Robert H. Smith School of Business, University of Maryland | Ph.D. Candidate in Operations Management | 2017 - Present
+University of Maryland | Course Instructor | 2020
+Indian School of Business | Analyst | 2015 - 2017
+Indian Institute of Technology, Delhi | Bachelor of Technology, Production & Industrial Engineering | 2009 - 2013
