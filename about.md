@@ -11,9 +11,9 @@ I am a PhD Candidate in Operations Management at the Robert H. Smith School of B
 
 I will be on the 2021-22 academic job market.
 
-<p>Email: <a href="mailto:sakshat@umd.edu">sakshat@umd.edu</a></p>
-<p>LinkedIn: <a href="https://www.linkedin.com/in/shubham-akshat-86997918/">Link</a></p>
-<p>CV: <a href="{{ site.baseurl }}public/CV.pdf">Download</a></p>
+<p>Email: <a target="_blank" href="mailto:sakshat@umd.edu">sakshat@umd.edu</a></p>
+<p>LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/shubham-akshat-86997918/">Link</a></p>
+<p>CV: <a target="_blank" href="{{ site.baseurl }}public/CV.pdf">Download</a></p>
 
 ## Awards & Honours
 
