@@ -10,7 +10,7 @@ title:            Shubham
 tagline:          'Personal Blog'
 description:      'Ph.D. Candidate in Operations Management | Robert H. Smith School of Business'
 url:              https://shubham2iitd.github.io/
-baseurl:          ""
+baseurl:          /
 
 author:
   name:           ''

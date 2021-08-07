@@ -26,7 +26,7 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" target="_blank" href="{{ site.baseurl }}public/CV.pdf">Curriculum vitae</a>
+      <a class="sidebar-nav-item" target="_blank" href="{{ 'public/CV.pdf' | relative_url }}">Curriculum vitae</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
