@@ -19,9 +19,8 @@ Best Paper Award Competition (Honorable Mention) | College of Healthcare Operati
 Jacob K. Goldhaber Travel Grant| University of Maryland | 2020
 Smith School Summer Fellowship | Robert H. Smith School of Business | (2018, 2019, 2020)
 
-## Affiliations
+## Academic Affiliations
 
 Robert H. Smith School of Business, University of Maryland | Ph.D. Candidate in Operations Management | 2017 - Present
-University of Maryland | Course Instructor | 2020
 Indian School of Business | Analyst | 2015 - 2017
 Indian Institute of Technology, Delhi | Bachelor of Technology, Production & Industrial Engineering | 2009 - 2013
