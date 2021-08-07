@@ -29,4 +29,4 @@ title: Research
 - Co-authors: S. Raghavan
 - Status: Preparing for submission at Operations Research
 - Miscellaneous:
-- Conference presentation at INFORMS Healthcare conference 2021
+  - Conference presentation at INFORMS Healthcare conference 2021
