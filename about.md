@@ -3,28 +3,27 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<img src="{{ site.baseurl }}public/profile.jpeg">
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Shubham Akshat
 
-There are currently two themes built on Poole:
+I am a PhD Candidate in Operations Management at the Robert H. Smith School of Business. My research interests include Healthcare Operations, Empirical Research, Structural Estimation, Applied Probability. I use operations research techniques and econometrics methods to analyze the impact of healthcare policies and propose new ones.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I will be on the 2021-22 academic job market.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+<p>Email: <a href="mailto:sakshat@umd.edu">sakshat@umd.edu</a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/shubham-akshat-86997918/">Link</a></p>
+<p>CV: <a href="{{ site.baseurl }}public/CV.pdf">Download</a></p>
 
-## Setup
+## Awards & Honours
 
-Some fun facts about the setup of this project include:
+2021 - Prizes | Received International Conference Student Support Award from University of Maryland
+2020 - Prizes | Received INFORMS Public Sector Operations Research Best Paper Award (Finalist) from INFORMS
+2020 - Prizes | Received Best Paper Award Competition (Honorable Mention) from College of Healthcare Operations Management (CHOM), POMS
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+## Affiliations
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Ph.D. Candidate in Operations Management | Robert H. Smith School of Business | Academic · 2017 - Present
+Course Instructor | University of Maryland | Academic · 2020
+Analyst | Indian School of Business | Academic · 2015 - 2017
+Bachelor of Technology, Production & Industrial Engineering | Indian Institute of Technology, Delhi | Education · 2009 - 2013
