@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Shubham
 tagline:          'A Jekyll theme'
 description:      'Ph.D. Candidate in Operations Management | Robert H. Smith School of Business'
-url:              http://hyde.getpoole.com
+url:              https://shadowfax92.github.io/sakshat
 baseurl:          /
 
 author:
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/shadowfax92/sakshat
