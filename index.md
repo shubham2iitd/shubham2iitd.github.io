@@ -3,11 +3,11 @@ layout: default
 title: About
 ---
 
-<img class="center" src="{{ site.baseurl }}public/profile.jpeg" height="350px"/>
+<img class="center" src="{{ site.baseurl }}public/profile.jpeg" width="50%"/>
 
 ## Shubham Akshat
 
-I am a PhD Candidate in Operations Management at the Robert H. Smith School of Business, University of Maryland.. My research interests include Healthcare Operations, Empirical Research, Structural Estimation, Applied Probability. I use operations research techniques and econometrics methods to analyze the impact of healthcare policies and propose new ones.
+I am a PhD Candidate in Operations Management at the Robert H. Smith School of Business, University of Maryland. My research interests include Healthcare Operations, Empirical Research, Structural Estimation, Applied Probability. I use operations research techniques and econometrics methods to analyze the impact of healthcare policies and propose new ones.
 
 I will be on the 2021-22 academic job market.
 
