@@ -23,7 +23,7 @@ I will be on the 2021-22 academic job market.
 
 ## Affiliations
 
-Ph.D. Candidate in Operations Management | Robert H. Smith School of Business | Academic · 2017 - Present
-Course Instructor | University of Maryland | Academic · 2020
-Analyst | Indian School of Business | Academic · 2015 - 2017
-Bachelor of Technology, Production & Industrial Engineering | Indian Institute of Technology, Delhi | Education · 2009 - 2013
+Ph.D. Candidate in Operations Management | Robert H. Smith School of Business | 2017 - Present
+Course Instructor | University of Maryland | 2020
+Analyst | Indian School of Business | 2015 - 2017
+Bachelor of Technology, Production & Industrial Engineering | Indian Institute of Technology, Delhi | 2009 - 2013
