@@ -13,7 +13,7 @@ I will be on the 2021-22 academic job market.
 
 ## Awards & Honours
 
-International Conference Student Support Award | University of Maryland | 2020
+International Conference Student Support Award | University of Maryland | 2021
 Best Paper Award (Finalist) | INFORMS Public Sector Operations Research Section | 2020
 Best Paper Award Competition (Honorable Mention) | College of Healthcare Operations Management (CHOM), POMS | 2020
 Jacob K. Goldhaber Travel Grant| University of Maryland | 2020
