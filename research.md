@@ -3,10 +3,11 @@ layout: page
 title: Research
 ---
 
-#### 1. Does Broader Sharing Improve Patient Outcomes? A Structural Model Analysis of Share 35 Liver Allocation Policy (Job market paper)
+#### 1. Does Broader Sharing Improve Patient Outcomes? A Structural Model Analysis of The Share 35 Liver Allocation Policy (Job market paper)
 
+<p><a target="_blank" href="{{ '/public/Broader_sharing_Paper.pdf' | relative_url }}"> Latest Version </a> </p>
 - Co-authors: Liye Ma, S. Raghavan
-- Status: Preparing to submit at <em>Management Science</em>
+- Status: Under review at <em>Manufacturing and Service Operations Management</em>
 - Miscellaneous:
   - Accepted at the 2021 MSOM Healthcare SIG Meeting
   - Accepted at the TADC 2021 conference
