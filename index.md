@@ -15,8 +15,8 @@ I will be on the 2021-22 academic job market.
 
 I am presenting two talks at the INFORMS Annual Meeting 2021:
 
-1. <em>Does Broader Sharing Improve Patient Outcomes? An Analysis of The Share 35 Liver Allocation Policy</em>: <a target="_blank" href="https://www.abstractsonline.com/pp8/#!/10390/session/1342">Session VWD13 - Health Care, Strategy and Policy</a>, October 27, 2021, 2:45 PM-4:15 PM
-2. <em>Continuous Scoring Model for Fair Liver Transplant Allocation</em>: <a target="_blank" href="https://www.abstractsonline.com/pp8/#!/10390/session/1336">Session VTD13 - Health Care, Modeling and Optimization III</a>, October 26, 2021, 2:45 PM - 4:15 PM
+1. <em>"Does Broader Sharing Improve Patient Outcomes? An Analysis of The Share 35 Liver Allocation Policy"</em>: <a target="_blank" href="https://www.abstractsonline.com/pp8/#!/10390/session/1342">Session VWD13 - Health Care, Strategy and Policy</a>, October 27, 2021, 2:45 PM-4:15 PM
+2. <em>"Continuous Scoring Model for Fair Liver Transplant Allocation"</em>: <a target="_blank" href="https://www.abstractsonline.com/pp8/#!/10390/session/1336">Session VTD13 - Health Care, Modeling and Optimization III</a>, October 26, 2021, 2:45 PM - 4:15 PM
 
 I will be available for interview at any time and will attend the upcoming INFORMS Annual Meeting in person.
 
