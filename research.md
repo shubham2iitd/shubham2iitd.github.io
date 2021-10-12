@@ -11,7 +11,7 @@ title: Research
 - Miscellaneous:
   - Accepted at the 2021 MSOM Healthcare SIG Meeting
   - Accepted at the TADC 2021 conference
-  - Conference presentations at INFORMS 2020, POMS 2021, MSOM Healthcare SIG 2021, INFORMS Healthcare conference 2021
+  - Conference presentations at INFORMS 2020, POMS 2021, MSOM Healthcare SIG 2021, INFORMS Healthcare conference 2021, INFORMS 2021
 
 #### 2. Heterogeneous Donor Circles for Fair Liver Transplant Allocation
 
@@ -30,4 +30,4 @@ title: Research
 - Co-authors: S. Raghavan
 - Status: Preparing for submission at <em>Operations Research</em>
 - Miscellaneous:
-  - Conference presentation at INFORMS Healthcare conference 2021
+  - Conference presentation at INFORMS Healthcare conference 2021, INFORMS 2021
