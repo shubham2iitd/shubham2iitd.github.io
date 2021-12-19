@@ -11,19 +11,6 @@ I am a Ph.D. Candidate in Operations Management at the Robert H. Smith School of
 
 My dissertation focuses on the healthcare sector, liver allocation policy in the United States (U.S.) in particular. The goals of my thesis are to: (1) Understand why previous allocation policies have resulted in huge geographic inequities; and (2) Propose new policies that address the issue of geographic inequity and result in efficient allocations.
 
-I will be on the 2021-22 academic job market.
-
-I am presenting two talks at the INFORMS Annual Meeting 2021:
-
-- <em>Does Broader Sharing Improve Patient Outcomes? An Analysis of The Share 35 Liver Allocation Policy</em>
-  - <a target="_blank" href="https://www.abstractsonline.com/pp8/#!/10390/session/1590">In-person: SC46 Health Care, Strategy and Policy, October 24, 2021, 11:00 AM - 12:30 PM, CC - Room 213D</a>
-  - <a target="_blank" href="https://www.abstractsonline.com/pp8/#!/10390/session/1342">Virtual: VWD13 Health Care, Strategy and Policy, October 27, 2021, 2:45 PM - 4:15 PM, Virtual Room 13</a>
-- <em>Continuous Scoring Model for Fair Liver Transplant Allocation</em>
-  - <a target="_blank" href="https://www.abstractsonline.com/pp8/#!/10390/session/1565">In-person: WD22 Health Care, Modeling and Optimization I, October 27, 2021, 2:45 PM - 4:15 PM, CC - Room 204B</a>
-  - <a target="_blank" href="https://www.abstractsonline.com/pp8/#!/10390/session/1336">Virtual: VTD13 Health Care, Modeling and Optimization III, October 26, 2021, 2:45 PM - 4:15 PM, Virtual Room 13</a>
-
-I will be available for interview at any time and will attend the upcoming INFORMS Annual Meeting in person.
-
 ## Awards & Honors
 
 Best Paper Award (Finalist) | INFORMS Public Sector Operations Research Section | 2020
