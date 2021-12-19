@@ -11,7 +11,7 @@ I am a Ph.D. Candidate in Operations Management at the Robert H. Smith School of
 
 My dissertation focuses on the healthcare sector, liver allocation policy in the United States (U.S.) in particular. The goals of my thesis are to: (1) Understand why previous allocation policies have resulted in huge geographic inequities; and (2) Propose new policies that address the issue of geographic inequity and result in efficient allocations.
 
-<iframe class="center" width="420" height="315" src="https://www.dropbox.com/s/58ehmmu64o4v4ak/video1738509278.mp4?raw=1" style="display: block;" frameborder="0" allowfullscreen></iframe>
+<iframe class="center" width="420" height="315" src="https://www.dropbox.com/s/58ehmmu64o4v4ak/video1738509278.mp4?raw=1" style="display: block;" frameborder="0" allowfullscreen="true"></iframe>
 
 ## Awards & Honors
 
