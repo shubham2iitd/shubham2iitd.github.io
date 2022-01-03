@@ -7,7 +7,7 @@ title: Research
 
 <p><a target="_blank" href="{{ '/public/Job_Mkt_paper.pdf' | relative_url }}"> Latest Version </a> </p>
 - Co-authors: Liye Ma, S. Raghavan
-- Status: Under review at <em>Manufacturing and Service Operations Management</em>
+- Status: Major Revision at <em>Manufacturing and Service Operations Management</em>
 - Miscellaneous:
   - Accepted at the 2021 MSOM Healthcare SIG Meeting
   - Accepted at the TADC 2021 conference
@@ -17,7 +17,7 @@ title: Research
 
 <p><a target="_blank" href="{{ '/public/Fair_Liver_Transplant_Allocation.pdf' | relative_url }}"> Latest Version </a> </p>
 - Co-authors: Sommer E. Gentry, S. Raghavan
-- Status: Submitted at <em>Health Care Management Science</em>
+- Status: Under review at <em>Health Care Management Science</em>
 - Miscellaneous:
   - INFORMS Public Sector <em>Operations Research</em> Best Paper Award (Finalist), 2020
   - Best Paper Award Competition (Honorable Mention, College of Healthcare Operations Management (CHOM), POMS, 2020
