@@ -28,6 +28,6 @@ title: Research
 #### 3. Continuous Scoring Model for Fair Liver Transplant Allocation
 
 - Co-authors: S. Raghavan
-- Status: Preparing for submission at <em>Operations Research</em>
+- Status: Working paper
 - Miscellaneous:
   - Conference presentation at INFORMS Healthcare conference 2021, INFORMS 2021
