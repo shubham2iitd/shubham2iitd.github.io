@@ -17,7 +17,7 @@ title: Research
 
 <p><a target="_blank" href="{{ '/public/Fair_Liver_Transplant_Allocation.pdf' | relative_url }}"> Latest Version </a> </p>
 - Co-authors: Sommer E. Gentry, S. Raghavan
-- Status: Minor Revision at <em>Health Care Management Science</em>
+- Status: Forthcoming at <em>Health Care Management Science</em>
 - Miscellaneous:
   - INFORMS Public Sector <em>Operations Research</em> Best Paper Award (Finalist), 2020
   - Best Paper Award Competition (Honorable Mention, College of Healthcare Operations Management (CHOM), POMS, 2020
