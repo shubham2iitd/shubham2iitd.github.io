@@ -13,8 +13,6 @@ My dissertation focuses on the healthcare sector, liver allocation policy in the
 
 NEW: I will be joining Carnegie Mellon University (Tepper School of Business) as a Visiting Assistant Professor in the Operations Management department starting September 2022. 
 
-<iframe class="center" width="420" height="315" src="https://www.dropbox.com/s/58ehmmu64o4v4ak/video1738509278.mp4?raw=1" style="display: block;" frameborder="0" allowfullscreen="true"></iframe>
-
 ## Awards & Honors
 
 Best Paper Award (Finalist) | INFORMS Public Sector Operations Research Section | 2020
