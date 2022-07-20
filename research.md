@@ -15,7 +15,7 @@ title: Research
 
 #### 2. Heterogeneous Donor Circles for Fair Liver Transplant Allocation
 
-<p><a target="_blank" href="{{ '/public/Fair_Liver_Transplant_Allocation.pdf' | relative_url }}"> Latest Version </a> </p>
+<p><a target="_blank" href="{{ '/public/Heterogeneous_Donor_Circles_for_Fair_Liver_Transplant_Allocation.pdf' | relative_url }}"> Latest Version </a> </p>
 - Co-authors: Sommer E. Gentry, S. Raghavan
 - Status: Forthcoming at <em>Health Care Management Science</em>
 - Miscellaneous:
